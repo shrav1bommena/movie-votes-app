@@ -1,0 +1,23 @@
+.signup-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f3f5;
+}
+
+.signup-page-inner {
+  background-color: white;
+  padding: 10px 15px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+}
